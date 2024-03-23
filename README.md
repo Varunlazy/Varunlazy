@@ -1,15 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        h1 {
-            color: red;
-            }
-    </style>
-</head>
-<body>
-    <h1>hello</h1>
-</body>
-</html>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Varun%20Lazy&fontAlignY=39&textBg=false&fontColor=ff3c3c&section=header" />
